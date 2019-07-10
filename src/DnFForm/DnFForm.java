@@ -24,7 +24,7 @@ import java.awt.event.ActionEvent;
 public class DnFForm extends JFrame {
 	private JPanel contentPane;
 	private static JTextField textField;
-	static String sAPIKey = "WCk6aOMaBRUNunDyDuMidxJFrE56j6R8";
+	static String sAPIKey = "API KEY";
 	static String sCharacterID = "";
 	private static JTable table, table2, table_2;
 	private static DefaultTableModel model, model2;
